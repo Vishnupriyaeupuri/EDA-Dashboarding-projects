@@ -12,6 +12,10 @@ The analysis focuses on understanding shipping intervals categorized into orders
 
 ## Dashboard Overview 📈
 This Excel-based dashboard serves as a robust visualization tool, offering insights into sales trends, shipping efficiency, and operational performance across global markets. It provides structured visualizations and analytics to support informed decision-making by management.
+![Screenshot 2024-07-07 100849](https://github.com/Vishnupriyaeupuri/EDA-Dashboarding-projects/assets/112987407/c282b986-7737-4bd2-a634-b7b2776ac70a)
+![Screenshot 2024-07-07 100910](https://github.com/Vishnupriyaeupuri/EDA-Dashboarding-projects/assets/112987407/48596080-8058-43ff-b9ba-e21a7c75c435)
+![Screenshot 2024-07-07 100927](https://github.com/Vishnupriyaeupuri/EDA-Dashboarding-projects/assets/112987407/973bb42a-9c64-444f-a1ee-aff43639b32a)
+![Screenshot 2024-07-07 100954](https://github.com/Vishnupriyaeupuri/EDA-Dashboarding-projects/assets/112987407/5b87b3d8-b96e-4d35-a864-c7989c4e1c63)
 
 ## Key Features of the Dashboard 🔍
 - **Multi-Level Analysis:** Explore Transactions, Orders, Revenue, COGS (Cost of Goods Sold), and Profit through interactive radio buttons.
