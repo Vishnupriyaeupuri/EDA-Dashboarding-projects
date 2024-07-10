@@ -7,8 +7,7 @@ The purpose of this project is to conduct a Customer Segmentation Analysis for a
 
 ## Tableau Dashboard
 Sales Dashboard for Customer Segmentation 
-<img src="data%20visualization/Sales%20Dashboard.gif" height="500" align="middle"><br>
-
+![Sales Dashboard](https://github.com/Vishnupriyaeupuri/EDA-Dashboarding-projects/assets/112987407/d46248c8-58cb-4610-8790-6343ff40a923)
 
 
 ## Analysis Approach
