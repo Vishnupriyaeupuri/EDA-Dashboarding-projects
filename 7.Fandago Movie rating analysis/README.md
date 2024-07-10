@@ -1,8 +1,4 @@
 
-# Project Title
-
-A brief description of what this project does and who it's for
-
 # 🌟 Fandango EDA Data Science Project: Unveiling Movie Rating Discrepancies
 
 Welcome to our comprehensive analysis of Fandango's movie ratings, where we explore potential biases and discrepancies in movie review systems.
@@ -74,6 +70,12 @@ This project investigates Fandango's movie rating system, examining discrepancie
 - **Comparison with Other Sites**: Fandango's ratings are consistently higher compared to Rotten Tomatoes, Metacritic, and IMDB.
 - **Distribution of Ratings**: Fandango shows an uneven distribution, leaning towards higher ratings, whereas other sites have more balanced distributions.
 - **Case Study - "Taken 3"**: Demonstrates how Fandango's ratings can mislead compared to other platforms.
+
+![1](https://github.com/Vishnupriyaeupuri/EDA-Dashboarding-projects/assets/112987407/20c14203-fce9-4b21-b6f9-fa31a77627f5)
+![2](https://github.com/Vishnupriyaeupuri/EDA-Dashboarding-projects/assets/112987407/422d6186-3550-4f1d-9673-03bf0d9e62f5)
+![3](https://github.com/Vishnupriyaeupuri/EDA-Dashboarding-projects/assets/112987407/1ee8a4b5-f488-4def-bbe2-99b661df2b57)
+![4](https://github.com/Vishnupriyaeupuri/EDA-Dashboarding-projects/assets/112987407/e594e9af-048b-45d9-acb2-f8965497c073)
+
 
 ## 📌 Implications
 
