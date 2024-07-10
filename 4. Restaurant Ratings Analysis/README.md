@@ -108,7 +108,15 @@ Food_Rating_Category = SWITCH(
 )
 ```
 
-## Data Analysis
+## Dashboard overview and Data Analysis
+![1](https://github.com/Vishnupriyaeupuri/EDA-Dashboarding-projects/assets/112987407/266aa0f0-b3ae-421d-a13a-0337e0002c31)
+
+![2](https://github.com/Vishnupriyaeupuri/EDA-Dashboarding-projects/assets/112987407/d0a5a8dd-4941-4722-85fc-8f644aecbd30)
+![3](https://github.com/Vishnupriyaeupuri/EDA-Dashboarding-projects/assets/112987407/332efa96-eeba-493a-a898-dd8292ef9830)
+![4](https://github.com/Vishnupriyaeupuri/EDA-Dashboarding-projects/assets/112987407/81701a24-841b-4285-a12a-7e943023f77b)
+![5](https://github.com/Vishnupriyaeupuri/EDA-Dashboarding-projects/assets/112987407/26ec5222-da9b-46b8-9f6d-b6ff359c36c2)
+
+
 ### Local Insights:
 - What is the distribution of consumers by city and state?
 
