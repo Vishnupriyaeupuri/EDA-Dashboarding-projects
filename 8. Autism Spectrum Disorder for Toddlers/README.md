@@ -52,9 +52,7 @@ Key visualizations include:
 ![Slide2](https://github.com/Vishnupriyaeupuri/EDA-Dashboarding-projects/assets/112987407/8d422664-5568-4b72-8b44-fc3be428be64)
 
 ![Slide3](https://github.com/Vishnupriyaeupuri/EDA-Dashboarding-projects/assets/112987407/09fcfd31-e2ef-4e2e-a5d5-662bdbf870c9)
-![Uploading Slide4.PNG…]()
-
-
+![Slide4](https://github.com/Vishnupriyaeupuri/EDA-Dashboarding-projects/assets/112987407/b1e8afa9-1f37-49c2-a0bd-c3916c976d2f)
 
 
 ## 🌟 Implications
