@@ -21,6 +21,8 @@ Welcome to my Swiggy Operational Dynamics Data Analysis project! This project de
 Processed data using python script can be accessed here 
 https://drive.google.com/drive/folders/1ezwT4C1Z2Z8A62ND9gCAYyZ3D-BL4Om2?usp=sharing
 
+Python Script :  https://github.com/Vishnupriyaeupuri/EDA-Dashboarding-projects/blob/main/1.%20Swiggy%20Data%20analysis%20Project/Swigy.ipynb
+
 ## 📊 Data Overview
 - **5 Core Tables:** Food, Menu, Orders, Orders Type, Restaurant, and Users.
 - **Impressive Scale:** Over **100,000 unique users** and **5.2 million rows** of detailed transactional data in the Menu table alone.
@@ -31,7 +33,14 @@ https://drive.google.com/drive/folders/1ezwT4C1Z2Z8A62ND9gCAYyZ3D-BL4Om2?usp=sha
 - **Relationship Building:** Establish robust relationships between tables to unlock deeper insights.
 - **Visual Exploration:** Create intuitive visualizations to reveal patterns, trends, and correlations within the dataset.
 
+  ![Screenshot 2024-07-07 104426](https://github.com/Vishnupriyaeupuri/EDA-Dashboarding-projects/assets/112987407/ae6ad97e-87cd-4589-a2a1-3c58b415c3fb)
+  ![Screenshot 2024-07-07 104446](https://github.com/Vishnupriyaeupuri/EDA-Dashboarding-projects/assets/112987407/d270616e-dcdf-49cf-9445-643ef5cb68f9)
+
+
+
 ## 🔍 Insights Uncovered
+![Screenshot 2024-07-07 104642](https://github.com/Vishnupriyaeupuri/EDA-Dashboarding-projects/assets/112987407/cea29517-ef5d-414d-932f-6b7c203ba50f)
+
 - **Impact of Vegetarian Options:** Vegetarian menu items contributed significantly, accounting for $122 million in sales, marking a 7.2% increase over non-vegetarian items.
 - **Customer Segmentation:** The top 10% of customers drove an impressive 80% of total sales, highlighting the importance of personalized marketing and service strategies.
 - **Regional Variations:** Tirupati emerged as a key market, recording the highest order volume totaling $43 million, underscoring regional preferences and market dynamics.
