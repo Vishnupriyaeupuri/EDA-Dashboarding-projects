@@ -1,12 +1,5 @@
 # Restaurant Ratings Analysis
 
-## Table of Content
-
-* [Case Study](#case-study)
-* [Dataset Description](#dataset-description)
-* [Data Cleaning](#data-cleaning)
-* [Data Analysis](#data-analysis)
-* [Dashboard](#dashboard)
 
 ## Case Study
 Restaurant ratings in Mexico by real consumers from 2012, including additional information about each restaurant and their cuisines, and each consumer and their preferences.
@@ -198,5 +191,4 @@ Food_Rating_Category = SWITCH(
 
     The top five restaurants with high customer satisfaction ratings are Tortas Locas Hipocampo, where most consumers are highly satisfied, and Puesto de Tacos, which has received 30 highly satisfied consumer ratings. Cafeteria y Restaurante El Pacífico follows closely with 24 consumers rating it as highly satisfactory, while La Cantina Restaurante boasts 28 highly satisfied ratings. Rounding out the list, Restaurant la Chalita has garnered 20 high satisfaction ratings from its customers.
   
-## Dashboard
 
